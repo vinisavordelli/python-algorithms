@@ -1,16 +1,21 @@
-# 🚧 README em construção 🚧
+### Esse Repositório contém a resolução de alguns algoritmos em python obecendo algumas regras de complexidade. São eles:
 
-<!-- Olá, Tryber!
+#### Número de estudantes estudando no mesmo horário (Algoritmo de busca)
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Dada uma lista de tuplas representando horarios de entrada e saída de estudantes na escola, crie um algoritimo que receba a hora desejada e veja quantos alunos estavam presentes nesse horario. O nível de complexidade do algoritimo deve ser linear (O(n))
 
-É essencial que você preencha esse documento por conta própria, ok?
+#### Palíndromos - De forma Recursiva
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+O algoritimo deve checar se a palavra é um palindromo, ou seja se uma palavra passada por parâmetro continua a mesma se for escrita de traz pra frente. 
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+#### Palíndromo - Iterativa
 
--->
+Faz a mesma coisa de maneira iterativa. O nível de complexidade do algoritimo deve ser linear (O(n))
+
+#### Anagramas (Algoritmo de ordenação)
+
+O algoritimo deve receber duas palavras e verificar se uma é anagrama da outra, ou seja, se utilizam as mesmas letras em sua composição. A complexidade do algoritimo deve ser logaritimica (O(n log n)).
+
+#### Encontrando números repetidos (Algoritmo de busca)
+
+Dada uma lista de números, o algoritimo deve encontrar e devolver o primeiro que se repete. A complexidade do algoritimo deve ser logaritimica (O(n log n)).
